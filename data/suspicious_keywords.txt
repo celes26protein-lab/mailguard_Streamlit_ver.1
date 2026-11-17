@@ -1,0 +1,30 @@
+# Words that make a subject line look suspicious (one per line; case does not matter)
+# Real emails sometimes use these words too. Remove any that cause too many false alarms.
+
+# English
+verify your account
+account suspended
+account locked
+urgent
+immediate action
+password expires
+unusual sign-in
+unusual activity
+you have won
+claim your prize
+payment failed
+confirm your identity
+final notice
+
+# Japanese
+アカウント停止
+アカウントが停止
+24時間以内
+至急
+緊急
+当選
+未払い
+再配達
+本人確認
+利用制限
+お支払い方法

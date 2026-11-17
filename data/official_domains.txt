@@ -1,0 +1,31 @@
+# keyword,official domain   (one pair per line; use several lines if a company has several domains)
+# If the display name or subject contains the keyword but the sender's domain is not listed here,
+# the sender is flagged as "claims a name that does not match the domain".
+#
+# Rules for adding entries:
+#  - Check the real email domain on the company's official website first.
+#  - Matching is a plain "contains" search, so use whole, distinctive words.
+#    A short keyword such as "irs" would match "first" and cause false alarms.
+
+# English-speaking world
+amazon,amazon.com
+amazon,amazon.co.uk
+amazon,amazon.co.jp
+paypal,paypal.com
+microsoft,microsoft.com
+apple,apple.com
+google,google.com
+netflix,netflix.com
+fedex,fedex.com
+dhl,dhl.com
+usps,usps.com
+internal revenue service,irs.gov
+
+# Japan
+アマゾン,amazon.co.jp
+アマゾン,amazon.com
+rakuten,rakuten.co.jp
+楽天,rakuten.co.jp
+国税庁,nta.go.jp
+ヤマト運輸,kuronekoyamato.co.jp
+佐川急便,sagawa-exp.co.jp

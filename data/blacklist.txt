@@ -1,0 +1,6 @@
+# Domains or email addresses reported for scams or spam (one per line).
+# Subdomains of a listed domain match too.
+# The two entries below are dummies for testing (.test is a reserved name that does not exist).
+# Add domains that have really been reported, yourself.
+evil-example.test
+phishing-sample.test

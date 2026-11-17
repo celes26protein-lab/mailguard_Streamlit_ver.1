@@ -1,0 +1,28 @@
+# Secrets (Streamlit keeps them here)
+.streamlit/secrets.toml
+.env
+*.key
+secrets.*
+
+# Your own exported data
+mailguard_trusted.json
+mailguard_history.csv
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R / RStudio history files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editors and OS
+.idea/
+.vscode/
+*.iml
+.DS_Store

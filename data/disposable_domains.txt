@@ -1,0 +1,7 @@
+# Disposable (temporary) email domains, one per line
+mailinator.com
+guerrillamail.com
+10minutemail.com
+yopmail.com
+sharklasers.com
+tempmail.com
